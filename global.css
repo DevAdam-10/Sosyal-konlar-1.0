@@ -1,0 +1,91 @@
+#socface{
+        position:absolute;
+        color:#446CB3;
+        width:50px;
+        height:50px;
+        background:#fff;
+        margin-top:25px;
+        margin-left:10px;
+        overflow:hidden;
+        border-radius:50%;
+    transition-property: color;
+    transition-duration:0.6s;
+    transition-delay: 0.1s;
+    }
+    #socface:hover{
+        background:#446CB3;
+        color:#fff;
+        overflow:hidden;
+    }
+        #socyou{
+        color:#D91E18;
+        width:50px;
+        height:50px;
+        background:#fff;
+        position:relative;
+        margin-top:-24px;
+        margin-left:70px;
+        overflow:hidden;
+        border-radius:50%;
+    transition-property: color;
+    transition-duration:0.6s;
+    transition-delay: 0.1s;
+    }
+    #socyou:hover{
+        background:#D91E18;
+        color:#fff;
+        overflow:hidden;
+    }
+        #soctwit{
+        color:#19B5FE;
+        width:50px;
+        height:50px;
+        background:#fff;
+        position:relative;
+        top:26px;
+        margin-left:130px;
+        border-radius:50%;
+    transition-property: color;
+    transition-duration:0.6s;
+    transition-delay: 0.1s;
+    }
+    #soctwit:hover{
+        background:#19B5FE;
+        overflow:hidden;
+        color:#fff; }
+
+        #socins{
+        color:#554343;
+        width:50px;
+        height:50px;
+        background:#fff;
+        position:relative;
+        top:-50px;
+        margin-left:190px;
+        border-radius:50%;
+    transition-property: color;
+    transition-duration:0.6s;
+    transition-delay: 0.1s;
+    }
+    #socins:hover{
+        background:#554343;
+        overflow:hidden;
+        color:#fff; }
+
+        #socgo{
+        color:#C73D3D;
+        width:50px;
+        height:50px;
+        background:#fff;
+        position:relative;
+        top:-100px;
+        margin-left:250px;
+        border-radius:50%;
+    transition-property: color;
+    transition-duration:0.6s;
+    transition-delay: 0.1s;
+    }
+    #socgo:hover{
+        background:#C73D3D;
+        overflow:hidden;
+        color:#fff; }
